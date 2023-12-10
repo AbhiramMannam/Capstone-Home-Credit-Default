@@ -34,8 +34,6 @@ Primary contributor to the project, started the EDA on the data by cleaning and 
 
 **[EDA Notebook](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/blob/main/Capstone_Project_EDA_Abhiram.ipynb)**
 
-**[Modeling Notebook](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/edit/main/README.md#:~:text=Capstone_Project_Modelling)**
+**[Modeling Notebook](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/blob/main/Capstone_Project_Modelling.ipynb)**
 
-**[Presentation](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/edit/main/README.md#:~:text=Capstone-,Presentation,-.pptx)**
-
-## Link to Presentation
+**[Presentation](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/blob/main/Capstone_Presentation.pptx)**
