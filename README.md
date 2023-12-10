@@ -32,7 +32,7 @@ Primary contributor to the project, started the EDA on the data by cleaning and 
 ## Lessons Learned
 
 
-**[EDA Notebook](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/edit/main/README.md#:~:text=Capstone_Project_EDA_Abhiram)**
+**[EDA Notebook](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/blob/main/Capstone_Project_EDA_Abhiram.ipynb)**
 
 **[Modeling Notebook](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/edit/main/README.md#:~:text=Capstone_Project_Modelling)**
 
