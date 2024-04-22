@@ -69,4 +69,4 @@ Results that help the business (home credit) requirements.
 
 **[Modeling Notebook](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/blob/main/Capstone_Project_Modelling.ipynb)**
 
-**[Presentation](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/blob/main/Capstone%20Presentation.pptx)**
+**[Presentation](https://github.com/AbhiramMannam/Capstone-Home-Credit-Default/blob/main/Capstone%20Presentation.pdf)**
