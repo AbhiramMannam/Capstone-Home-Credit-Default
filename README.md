@@ -32,7 +32,7 @@ Modeling can help reduce the risk of non-performing assets. So, the business inc
 
 Providing loans to underserved customers due to insufficient or non-existent credit histories can increase the business's customer base and revenue.
 
-Using technology and machine learning models in the financial sector can increase business growth and ease of doing business.
+Using technology and machine learning models in the financial sector can increase business growth and ease of business.
 
 
 ## Challenges
@@ -54,11 +54,11 @@ Combining the different datasets to analyze the problem and analyze the solution
 
 Imputing the missing data and removing the columns that don't provide much information.
 
-The Class imbalance problem, the majority class problem, and the under-sampling method to balance the class.
+The class imbalance problem, the majority class problem, and the under-sampling method balance the class.
 
 Multicollinearity affects the model output and accuracy.
 
-Model Selection and hyperparameter tuning to get the best results.
+Model selection and hyperparameter tuning are used to get the best results.
 
 Confusion matrix and interpretations of the confusion matrix.
 
